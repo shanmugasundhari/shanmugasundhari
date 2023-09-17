@@ -1,0 +1,79 @@
+h1{
+    text-align: center;
+}
+.myDiv{
+    background-color:lightgreen;
+}
+.Imgmain{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.mydiv{
+    background-color:rgb(255, 0, 221);
+}
+.mysty{
+    background-color: rgb(255, 38, 0);
+}
+.mylist{
+    background-color: burlywood;
+}
+
+@media screen and (max-width: 5505px){
+    body{
+        background-color:lightseagreen;
+    }
+    h1{
+        font-size: 60px;
+    }
+    .head{
+        color: aquamarine;
+    }
+}
+
+@media screen  and (max-width:638px){
+    body{
+        background-color:violet;
+    }
+    h1{
+        font-size: 30px;
+    }
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: right;
+}
+table,th,td{
+    border:2px solid black;
+    border-collapse: collapse;
+}
+th{
+    background-color: lightsalmon;
+    text-align: left;
+}
+td{
+    background-color: lightskyblue;
+}
+caption{
+    text-align: left;
+    text-shadow: 20px;
+}
+.myform{
+    background-color: lightgreen;
+}
+.f1{
+    background-color: lightgrey;
+}
+.f2{
+    background-color: lightslategray;
+}
+.f3{
+    background-color: lightsalmon;
+}
+.f4{
+    background-color: lightcoral;
+}
+
+
